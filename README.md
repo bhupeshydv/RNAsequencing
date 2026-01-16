@@ -18,6 +18,7 @@ To learn the basic RNA-seq workflow including quality control, trimming, alignme
 ## Workflow Overview
 
 ### 1. Data Collection
+- Dataset obtained from NCBI SRA for practice purposes.
 - RNA-seq FASTQ files were downloaded from the SRA database.
 - Example dataset:
   - SRR1552445
